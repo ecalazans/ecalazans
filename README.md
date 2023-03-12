@@ -24,7 +24,7 @@
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ecalazans&show_icons=true&theme=github_dark" alt="erick d. calazans stats"/>
+  <img width="531em" src="https://github-readme-stats.vercel.app/api?username=ecalazans&show_icons=true&theme=github_dark" alt="erick d. calazans stats"/>
   <img width="404em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecalazans&layout=compact&theme=github_dark" alt="erick d. calazans most languages"/>
 </p>
 
