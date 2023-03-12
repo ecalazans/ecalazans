@@ -1,6 +1,6 @@
 ### Oi!!! Sou o Erick Calazans 👋
 
-- 🌱 Atualmente estudando Node.js React JS 
+- 🌱 Atualmente estudando Node.js e React JS 
 
 ##
 
