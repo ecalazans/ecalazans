@@ -21,6 +21,12 @@
 
 <br><br>
 
+## 👨🏽‍💻 &nbsp; Simple portfolio page
+<div>
+  <a href="https://inprofile.netlify.app/" target="_blank"><img src="" target="_blank"></a>
+</div>
+
+<br></br>
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
