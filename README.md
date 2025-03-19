@@ -22,7 +22,9 @@
 <br><br>
 
 ## 👨🏽‍💻 &nbsp; Simple portfolio page
-📍[Link](https://inprofile.netlify.app/)
+<p>
+  📍<a href="https://inprofile.netlify.app/" target="_blank" style="text-decoration: none; background-color: #0078D4; color: white; padding: 10px 15px; border-radius: 5px; display: inline-block; font-weight: bold;">Acessar</a>
+</p>
 
 <br></br>
 <!--
