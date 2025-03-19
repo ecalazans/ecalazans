@@ -22,7 +22,7 @@
 <br><br>
 
 ## 👨🏽‍💻 &nbsp; Simple portfolio page
-[![Portfolio](https://img.shields.io/badge/🔗-Acessar-blue?style=for-the-badge)](https://inprofile.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/📍-Acessar-blue?style=for-the-badge)](https://inprofile.netlify.app/)
 
 
 <br></br>
@@ -36,7 +36,6 @@
 
 <br><br>
 -->
-
 ## Contact
 
 <div>
