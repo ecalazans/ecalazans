@@ -23,7 +23,7 @@
 
 ## 👨🏽‍💻 &nbsp; Simple portfolio page
 <div>
-  <a href="https://inprofile.netlify.app/" target="_blank" text-decoration="none">📍 Link</a>
+  📍<a href="https://inprofile.netlify.app/" target="_blank">Link</a>
 </div>
 
 <br></br>
