@@ -22,9 +22,8 @@
 <br><br>
 
 ## 👨🏽‍💻 &nbsp; Simple portfolio page
-<p>
-  📍<a href="https://inprofile.netlify.app/" target="_blank" style="text-decoration: none; background-color: #0078D4; color: white; padding: 10px 15px; border-radius: 5px; display: inline-block; font-weight: bold;">Acessar</a>
-</p>
+📍 [![Portfolio](https://img.shields.io/badge/🔗-Acessar-blue?style=for-the-badge)](https://inprofile.netlify.app/)
+
 
 <br></br>
 <!--
