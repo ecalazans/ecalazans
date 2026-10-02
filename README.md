@@ -25,8 +25,7 @@
 
 <a href="https://devlink-smoky-eight.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/DevLink-Acessar-blue?style=for-the-badge" />
-</a>
-
+</a>&nbsp;&nbsp;
 <a href="https://inprofile.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Acessar-blue?style=for-the-badge" />
 </a>
