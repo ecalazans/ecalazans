@@ -21,8 +21,6 @@
 
 <br><br>
 
-## 👨🏽‍💻 &nbsp; Simple portfolio page
-
 <h2>👨🏽‍💻 Simple portfolio page</h2>
 
 <a href="https://devlink-smoky-eight.vercel.app/" target="_blank">
