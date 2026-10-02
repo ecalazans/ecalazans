@@ -22,9 +22,11 @@
 <br><br>
 
 ## 👨🏽‍💻 &nbsp; Simple portfolio page
-[![Portfolio](https://img.shields.io/badge/📍-Acessar-blue?style=for-the-badge)](https://devlink-smoky-eight.vercel.app/)
+<div>
+  [![Portfolio](https://img.shields.io/badge/📍-Acessar-blue?style=for-the-badge)](https://devlink-smoky-eight.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/📍-Acessar-blue?style=for-the-badge)](https://inprofile.netlify.app/)  
+</div>
 
-[![Portfolio](https://img.shields.io/badge/📍-Acessar-blue?style=for-the-badge)](https://inprofile.netlify.app/)
 
 <br></br>
 <!--
