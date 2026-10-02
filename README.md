@@ -23,12 +23,8 @@
 
 <h2>👨🏽‍💻 Simple portfolio page</h2>
 
-<a href="https://devlink-smoky-eight.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/DevLink-Acessar-blue?style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href="https://inprofile.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Acessar-blue?style=for-the-badge" />
-</a>
+<a href="https://devlink-smoky-eight.vercel.app/"><img src="https://img.shields.io/badge/DevLink-Acessar-blue?style=for-the-badge"></a>&nbsp;&nbsp;
+<a href="https://inprofile.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Acessar-blue?style=for-the-badge"></a>
 
 
 <br></br>
